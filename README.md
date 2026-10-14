@@ -147,11 +147,15 @@ Resources may be managed by other environment directories or separate state file
 - Reusable Terraform modules and environment configuration.
 - Troubleshooting security groups, routing, and target health.
 
-## Author
+---
 
-**Vishal Konde** — Aspiring DevOps / Cloud Engineer
+# 👨‍💻 Author
 
-- GitHub: https://github.com/VishalKonde01
-- LinkedIn: linkedin.com/in/vishal-konde-dev
+## Vishal Konde
 
+🔗 LinkedIn:
+
+[https://www.linkedin.com/in/vishal-konde-dev](https://www.linkedin.com/in/vishal-konde-dev)
+
+---
 
